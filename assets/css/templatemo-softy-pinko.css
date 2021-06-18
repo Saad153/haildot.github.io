@@ -359,6 +359,7 @@ button.main-button {
   text-transform: uppercase;
   color: #fff;
   letter-spacing: 0.25px;
+  text-align: center;
   -webkit-transition: all 0.3s ease 0s;
   -moz-transition: all 0.3s ease 0s;
   -o-transition: all 0.3s ease 0s;

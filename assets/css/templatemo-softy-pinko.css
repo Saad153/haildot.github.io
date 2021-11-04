@@ -567,7 +567,7 @@ header
 }
 
 .header-area.header-sticky .nav li a.active {
-  color: #4d4b4c;
+  color: #F4DF4EFF;
 }
 
 @media (max-width: 1200px) {
@@ -588,7 +588,7 @@ header
     text-align: center;
   }
   .header-area .container {
-    padding: 0px;
+    padding: 10%;
   }
   .header-area .logo {
     margin-top: 17px !important;
